@@ -2,8 +2,6 @@
 This project analyzes passenger volume across major transit routes, transportation modes, and days of the week to understand travel behavior and support data-driven transportation planning. The goal is to identify dominant transport modes, demand patterns, and opportunities to optimize service delivery.
 Public Transportation Usage Analysis
 
-Analyzed passenger volumes across major routes, transport modes, and days of the week to identify demand patterns and optimization opportunities.
-
 Key Findings
 
 Buses dominate high-traffic commuter routes (e.g., North Station ↔ Airport, Central ↔ North Station)
