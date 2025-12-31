@@ -6,7 +6,7 @@ Key Findings
 
 Buses dominate high-traffic commuter routes (e.g., North Station ↔ Airport, Central ↔ North Station)
 
-Ferry and train services perform strongly on select corridors
+Ferry and train services perform strongly on selected corridors
 
 Tram usage is evenly distributed across routes
 
