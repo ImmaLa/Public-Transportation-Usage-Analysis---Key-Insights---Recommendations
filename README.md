@@ -22,7 +22,5 @@ Promote multimodal integration through coordinated schedules and ticketing
 
 Apply route-specific strategies rather than one-size-fits-all solutions
 
-Outcome
-Delivered actionable insights to support data-driven transit planning, improved service efficiency, and better passenger experience.
 
 
